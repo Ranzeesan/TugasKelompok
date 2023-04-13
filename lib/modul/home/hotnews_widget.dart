@@ -148,5 +148,6 @@ class HotNewsCard extends StatelessWidget {
         ),
       ),
     );
+    
   }
 }

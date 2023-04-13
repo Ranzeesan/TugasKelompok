@@ -38,7 +38,7 @@ List<News> newsData = [
     id: 5,
     title: "Genshin Impact 3.6 Enemies",
     description:
-        "A mighty and fearsome abomination in the form of the Dendro Dragon called Dragon of Verdure: Apep, wriggles its way in Version 3.6! You can unlock this new Weekly Boss from the second act of Nahida's Story Quest.",
+        "A mighty and fearsome abomination in the form of the Dendro Dragon called Dragon of Verdure: Apep, wriggles its way in Version 3.6! You can unlock this new Weekly Boss from the second act of Nahida's Story Quest. A mighty and fearsome abomination in the form of the Dendro Dragon called Dragon of Verdure: Apep, wriggles its way in Version 3.6! You can unlock this new Weekly Boss from the second act of Nahida's Story Quest.",
     image:
         "https://img.game8.co/3669024/26af8b1e9c3ce915420145f37d01729c.png/show",
   ),
